@@ -10,4 +10,4 @@ This project requires Python3 and requests package
 pip3 install pipenv
 pipenv --three // runs python 3 project
 pipenv install requests // install packages as needed
-pipenv run python find_meteors.py
+pipenv run python meteors/find_oeteors.py
